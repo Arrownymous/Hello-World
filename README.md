@@ -1,2 +1,6 @@
 # Hello-World
-My first Repository
+
+Hi Developers!
+
+Arrownymous here, I like Artificial Intelligence and im interested in Python.
+
